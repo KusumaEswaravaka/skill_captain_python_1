@@ -1,0 +1,6 @@
+print("Hello World kusuma")
+print(" Nitpy")
+print("20")
+print("andhra")
+print(" hey")
+print("my first code in python")
